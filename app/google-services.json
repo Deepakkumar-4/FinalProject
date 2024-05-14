@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464690989961",
+    "project_id": "finalproject-12f55",
+    "storage_bucket": "finalproject-12f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464690989961:android:4ab916dea7b961602a2f58",
+        "android_client_info": {
+          "package_name": "com.example.tripity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHs35MhZWUZ3tm3rM0yFVPXpmAK2XZncI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
